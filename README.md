@@ -19,3 +19,4 @@ To get started, check out <http://vccw.cc/>
 * Optional import of theme unit test data
 * Pre-installed [wp-cli](http://wp-cli.org)
 * Shares folders between Host and Guest OS
+test
