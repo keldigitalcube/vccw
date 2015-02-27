@@ -13,7 +13,7 @@ To get started, check out <http://vccw.cc/>
 ### Note
 
 * The `site.yml` has to be in the same directory with Vagrantfile.
-* You can put just difference to the `site.yml`.
+* You can put just the difference to `site.yml`.
 
 ## Contribute
 
@@ -24,7 +24,7 @@ To get started, check out <http://vccw.cc/>
 
 ### Running and writing tests
 
-There is automated tests using [Serverspec](http://serverspec.org/).
+There are automated tests using [Serverspec](http://serverspec.org/).
 
 The tests files are in the `spec/` directory.
 
